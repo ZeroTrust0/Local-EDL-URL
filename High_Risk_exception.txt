@@ -6,8 +6,15 @@ sdk.pingid.eu
 registration.arloxcld.com
 audio-sp-bma6.pscdn.co
 gtq.sct.sc-prod.net
+api.swogo.net
+mycarisborn.bmwdigital.io
 
 #Arlo
 advisor.arloxcld.com
 xbroker11-z1.arloxcld.com
 *.arloxcld.com
+
+#Schibsted
+api.schibsted.media
+jssdk.touchepoints.schibsted.media
+engage-auth.schibsted.media
