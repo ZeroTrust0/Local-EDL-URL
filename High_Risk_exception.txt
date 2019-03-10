@@ -6,3 +6,6 @@ sdk.pingid.eu
 registration.arloxcld.com
 audio-sp-bma6.pscdn.co
 gtq.sct.sc-prod.net
+
+#Arlo
+advisor.arloxcld.com
