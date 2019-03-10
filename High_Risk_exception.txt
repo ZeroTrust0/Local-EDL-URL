@@ -18,3 +18,4 @@ xbroker11-z1.arloxcld.com
 api.schibsted.media
 jssdk.touchepoints.schibsted.media
 engage-auth.schibsted.media
+*.schibsted.media
