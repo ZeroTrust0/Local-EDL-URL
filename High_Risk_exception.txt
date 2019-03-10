@@ -9,3 +9,4 @@ gtq.sct.sc-prod.net
 
 #Arlo
 advisor.arloxcld.com
+*.arloxcld.com
