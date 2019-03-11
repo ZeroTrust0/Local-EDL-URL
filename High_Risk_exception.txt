@@ -8,6 +8,8 @@ audio-sp-bma6.pscdn.co
 gtq.sct.sc-prod.net
 api.swogo.net
 mycarisborn.bmwdigital.io
+elastic-co-apm-server.app.elstc.co/intake/v2/rum/events
+fpdownload.macromedia.com
 
 #Arlo
 advisor.arloxcld.com
