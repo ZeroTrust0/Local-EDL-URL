@@ -21,3 +21,6 @@ api.schibsted.media
 jssdk.touchepoints.schibsted.media
 engage-auth.schibsted.media
 *.schibsted.media
+
+#FotoKnudsen
+bam.nr-data.net
