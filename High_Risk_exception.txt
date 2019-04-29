@@ -24,3 +24,4 @@ engage-auth.schibsted.media
 
 #FotoKnudsen
 bam.nr-data.net
+dwnld.filecatalogue.com
