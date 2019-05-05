@@ -25,3 +25,6 @@ engage-auth.schibsted.media
 #FotoKnudsen
 bam.nr-data.net
 dwnld.filecatalogue.com
+
+#Spotify
+i.scdn.co
