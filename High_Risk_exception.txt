@@ -29,3 +29,6 @@ dwnld.filecatalogue.com
 
 #Spotify
 i.scdn.co
+
+#Get
+*.getvideo.cloud
