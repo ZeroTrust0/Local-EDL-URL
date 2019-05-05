@@ -10,6 +10,7 @@ api.swogo.net
 mycarisborn.bmwdigital.io
 elastic-co-apm-server.app.elstc.co/intake/v2/rum/events
 fpdownload.macromedia.com
+beacon.rum.dynapis.com
 
 #Arlo
 advisor.arloxcld.com
