@@ -32,3 +32,6 @@ i.scdn.co
 
 #Get
 *.getvideo.cloud
+
+#HBO 20190606
+ssl.p.jwpcdn.com
