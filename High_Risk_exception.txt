@@ -11,7 +11,6 @@ mycarisborn.bmwdigital.io
 elastic-co-apm-server.app.elstc.co/intake/v2/rum/events
 fpdownload.macromedia.com
 beacon.rum.dynapis.com
-click.airbnbmail.com
 
 #Arlo
 advisor.arloxcld.com
@@ -36,3 +35,7 @@ i.scdn.co
 
 #HBO 20190606
 ssl.p.jwpcdn.com
+
+#20190616
+bmedia.justservingfiles.net
+click.airbnbmail.com
