@@ -1,3 +1,4 @@
 #20190616
 api.ipify.org
 pippio.com
+beacon.krxd.net
