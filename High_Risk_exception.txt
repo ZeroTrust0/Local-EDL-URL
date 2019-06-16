@@ -11,6 +11,7 @@ mycarisborn.bmwdigital.io
 elastic-co-apm-server.app.elstc.co/intake/v2/rum/events
 fpdownload.macromedia.com
 beacon.rum.dynapis.com
+click.airbnbmail.com
 
 #Arlo
 advisor.arloxcld.com
