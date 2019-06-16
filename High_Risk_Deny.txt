@@ -2,3 +2,4 @@
 api.ipify.org
 pippio.com
 beacon.krxd.net
+c.go-mpulse.net
