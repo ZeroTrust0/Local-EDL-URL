@@ -41,3 +41,5 @@ ssl.p.jwpcdn.com
 bmedia.justservingfiles.net
 click.airbnbmail.com
 
+#20190709 Hotels.com
+thumbnails.trvl-media.com
