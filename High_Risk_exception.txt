@@ -12,6 +12,7 @@ fpdownload.macromedia.com
 beacon.rum.dynapis.com
 mallorcautleie-no.exactdn.com
 cdn.jsdelivr.net
+api.segment.io
 
 #Arlo
 advisor.arloxcld.com
