@@ -50,3 +50,6 @@ click.airbnbmail.com
 
 #20190709 Hotels.com
 thumbnails.trvl-media.com
+
+#20190718 Strava
+app.link
