@@ -14,11 +14,17 @@ mallorcautleie-no.exactdn.com
 cdn.jsdelivr.net
 api.segment.io
 
-#Trivago
+#20190718 Trivago
 hsg-prod-eu.nsp.trv.cloud
 
-#Hotels
+#20190718 Hotels
 cdn.glassboxcdn.com
+
+#20190718 Restplass
+booking.autobooker.com
+
+#20190718 Restplass
+c.cintnetworks.com
 
 #Arlo
 advisor.arloxcld.com
