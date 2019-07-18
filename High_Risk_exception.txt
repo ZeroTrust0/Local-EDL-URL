@@ -13,6 +13,7 @@ beacon.rum.dynapis.com
 mallorcautleie-no.exactdn.com
 cdn.jsdelivr.net
 api.segment.io
+hsg-prod-eu.nsp.trv.cloud
 
 #Arlo
 advisor.arloxcld.com
