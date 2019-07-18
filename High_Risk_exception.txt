@@ -13,7 +13,12 @@ beacon.rum.dynapis.com
 mallorcautleie-no.exactdn.com
 cdn.jsdelivr.net
 api.segment.io
+
+#Trivago
 hsg-prod-eu.nsp.trv.cloud
+
+#Hotels
+cdn.glassboxcdn.com
 
 #Arlo
 advisor.arloxcld.com
