@@ -62,7 +62,14 @@ app.link
 
 #20190722 Apple-TV
 vod.getvideo.cloud
+images.getvideo.cloud
+logos.getvideo.cloud
 
 #20190722
 srv.dc-1.net
+cdn.88-f.net
+user-data.mutinycdn.com
+a.adtng.com
+c.sharethis.mgr.consensu.org
+trafforsrv.com
 gtq.sct.sc-prod.net
