@@ -59,3 +59,10 @@ thumbnails.trvl-media.com
 
 #20190718 Strava
 app.link
+
+#20190722 Apple-TV
+vod.getvideo.cloud
+
+#20190722
+srv.dc-1.net
+gtq.sct.sc-prod.net
