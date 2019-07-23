@@ -78,4 +78,5 @@ gtq.sct.sc-prod.net
 lnkd.in
 
 #20190723 Speedtest
-ookla-osl.net.avur.no.prod.hosts.ooklaserver.net
+*.no.prod.hosts.ooklaserver.net
+*.net.prod.hosts.ooklaserver.net
