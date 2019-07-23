@@ -73,3 +73,6 @@ a.adtng.com
 c.sharethis.mgr.consensu.org
 trafforsrv.com
 gtq.sct.sc-prod.net
+
+#20190723 LinkedIn
+lnkd.in
