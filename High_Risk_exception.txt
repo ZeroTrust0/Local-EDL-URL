@@ -76,3 +76,6 @@ gtq.sct.sc-prod.net
 
 #20190723 LinkedIn
 lnkd.in
+
+#20190723 Speedtest
+ookla-osl.net.avur.no.prod.hosts.ooklaserver.net
