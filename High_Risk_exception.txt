@@ -80,3 +80,6 @@ lnkd.in
 #20190723 Speedtest
 *.no.prod.hosts.ooklaserver.net
 *.net.prod.hosts.ooklaserver.net
+
+#20190726
+annonser.let.no
