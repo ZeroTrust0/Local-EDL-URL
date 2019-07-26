@@ -83,3 +83,5 @@ lnkd.in
 
 #20190726
 annonser.let.no
+easypark.app.link
+easypark-alternate.app.link/
