@@ -90,6 +90,3 @@ easypark-alternate.app.link/
 #20190728
 src.ebay-us.com
 lightroom.app.link
-
-#20190815
-x.bidswitch.net
