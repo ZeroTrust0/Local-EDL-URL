@@ -97,3 +97,6 @@ bestapplicationeu.com
 analytics.webgains.io
 pixel.onaudience.com
 bestapplicationeu.com
+
+#20190806 Theodor game
+countly.vitec-mv.net
