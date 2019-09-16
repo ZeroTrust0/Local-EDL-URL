@@ -43,6 +43,7 @@ dwnld.filecatalogue.com
 
 #Spotify
 i.scdn.co
+audio-sp-bma-13.pscdn.co
 
 #Get
 *.getvideo.cloud
