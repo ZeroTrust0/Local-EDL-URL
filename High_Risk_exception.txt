@@ -107,3 +107,6 @@ use.fontawesome.com
 
 #20191008 Felgteknikk
 www.123formbuilder.com
+cdn-main.123formbuilder.com
+cdn-main1.123formbuilder.com
+cdn-main2.123formbuilder.com
