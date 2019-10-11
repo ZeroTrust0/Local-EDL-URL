@@ -113,3 +113,8 @@ cdn-main2.123formbuilder.com
 
 #20191011 VVS side
 no.bvvs.net
+
+#20191011 Hubspot
+static.hsappstatic.net
+js.hubspotfeedback.com
+
