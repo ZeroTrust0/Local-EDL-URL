@@ -118,3 +118,7 @@ no.bvvs.net
 static.hsappstatic.net
 js.hubspotfeedback.com
 
+#20191015
+c.6sc.co
+js.hs-analytics.net
+forms.hsforms.com
