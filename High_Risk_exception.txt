@@ -122,3 +122,6 @@ js.hubspotfeedback.com
 c.6sc.co
 js.hs-analytics.net
 forms.hsforms.com
+
+#20191019
+da.xboxservices.com
