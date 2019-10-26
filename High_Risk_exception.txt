@@ -125,3 +125,6 @@ forms.hsforms.com
 
 #20191019
 da.xboxservices.com
+
+#20191026 G-sport
+pam.gresvigprod.com
