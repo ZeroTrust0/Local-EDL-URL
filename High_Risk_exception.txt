@@ -128,3 +128,7 @@ da.xboxservices.com
 
 #20191026 G-sport
 pam.gresvigprod.com
+
+#20191028
+cm.schibsted.tech
+images.squarespace-cdn.com/content
