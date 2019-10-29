@@ -132,3 +132,8 @@ pam.gresvigprod.com
 #20191028
 cm.schibsted.tech
 images.squarespace-cdn.com/content
+
+#20191029
+spotify.cdn.sonos-ws-us.com
+a-fds.youborafds01.com
+static.ws-cdn.com
