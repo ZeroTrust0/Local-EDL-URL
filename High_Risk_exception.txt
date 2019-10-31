@@ -137,3 +137,6 @@ images.squarespace-cdn.com/content
 spotify.cdn.sonos-ws-us.com
 a-fds.youborafds01.com
 static.ws-cdn.com
+
+#20191031
+urldefense.com
