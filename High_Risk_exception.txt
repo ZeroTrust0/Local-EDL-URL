@@ -140,3 +140,7 @@ static.ws-cdn.com
 
 #20191031
 urldefense.com
+
+#20191101
+o.ss2.us
+s.ss2.us
