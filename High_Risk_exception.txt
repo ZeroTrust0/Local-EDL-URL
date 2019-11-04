@@ -143,4 +143,7 @@ urldefense.com
 
 #20191101
 o.ss2.us
-s.ss2.us
+s.ss2.us  
+
+#20191104
+urldefense.com
