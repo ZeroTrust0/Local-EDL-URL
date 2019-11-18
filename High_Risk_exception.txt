@@ -147,3 +147,6 @@ s.ss2.us
 
 #20191104
 urldefense.com
+
+#20191118 Spotify
+audio-sp-bma-13.spotifycdn.net
