@@ -155,3 +155,6 @@ audio-sp-bma-13.spotifycdn.net
 api.fusepps.net
 hid.hafslundnett.io
 kunde.hafslundnett.io
+
+#20200225
+tourdesfjordsexperience.no
