@@ -158,3 +158,6 @@ kunde.hafslundnett.io
 
 #20200225
 tourdesfjordsexperience.no
+
+#20200228 Chromecast
+redirector.gvt1.com
