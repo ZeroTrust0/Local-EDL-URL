@@ -161,3 +161,6 @@ tourdesfjordsexperience.no
 
 #20200228 Chromecast
 redirector.gvt1.com
+
+#20200229 XBox
+plaid.xboxservices.com
