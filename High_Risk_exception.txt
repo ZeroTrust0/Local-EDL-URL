@@ -48,6 +48,10 @@ audio-sp-bma-13.pscdn.co
 #Get
 *.getvideo.cloud
 cloud-live.telia-cdn.net
+image.getvideo.cloud
+vod.getvideo.cloud
+images.getvideo.cloud
+logos.getvideo.cloud
 
 #HBO 20190606
 ssl.p.jwpcdn.com
@@ -62,11 +66,6 @@ thumbnails.trvl-media.com
 #20190718 Strava
 app.link
 strava.app.link
-
-#20190722 Apple-TV
-vod.getvideo.cloud
-images.getvideo.cloud
-logos.getvideo.cloud
 
 #20190722
 srv.dc-1.net
