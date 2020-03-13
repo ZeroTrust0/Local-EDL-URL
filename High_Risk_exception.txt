@@ -47,6 +47,7 @@ audio-sp-bma-13.pscdn.co
 
 #Get
 *.getvideo.cloud
+cloud-live.telia-cdn.net
 
 #HBO 20190606
 ssl.p.jwpcdn.com
