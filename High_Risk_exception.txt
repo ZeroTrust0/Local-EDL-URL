@@ -52,6 +52,7 @@ image.getvideo.cloud
 vod.getvideo.cloud
 images.getvideo.cloud
 logos.getvideo.cloud
+tmp.telia-cdn.net
 
 #HBO 20190606
 ssl.p.jwpcdn.com
