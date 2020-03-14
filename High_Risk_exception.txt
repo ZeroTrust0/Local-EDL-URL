@@ -14,6 +14,8 @@ mallorcautleie-no.exactdn.com
 cdn.jsdelivr.net
 api.segment.io
 vc.hotjar.io
+api.schibsted.tech
+static.prod.schibsted.tech
 
 #20190718 Trivago
 hsg-prod-eu.nsp.trv.cloud
