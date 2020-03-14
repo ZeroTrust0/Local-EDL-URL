@@ -13,6 +13,7 @@ beacon.rum.dynapis.com
 mallorcautleie-no.exactdn.com
 cdn.jsdelivr.net
 api.segment.io
+vc.hotjar.io
 
 #20190718 Trivago
 hsg-prod-eu.nsp.trv.cloud
