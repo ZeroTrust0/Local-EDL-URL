@@ -168,3 +168,6 @@ redirector.gvt1.com
 
 #20200229 XBox
 plaid.xboxservices.com
+
+#20200409 Viasat Free
+static-assets.viafree.tv
