@@ -172,3 +172,6 @@ plaid.xboxservices.com
 #20200409 Viasat Free
 static-assets.viafree.tv
 playapi.viafree.tv
+
+#20200411 xbox
+teal.xboxservices.com
