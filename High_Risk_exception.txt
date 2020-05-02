@@ -56,6 +56,8 @@ vod.getvideo.cloud
 images.getvideo.cloud
 logos.getvideo.cloud
 tmp.telia-cdn.net
+live-nonshield.telia-cdn.net
+m-b-1.livecdn.teliaplay.net
 
 #HBO 20190606
 ssl.p.jwpcdn.com
