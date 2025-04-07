@@ -1,4 +1,5 @@
 #25. mars 2025
+#https://geoip.starlinkisp.net/feed.csv
 
 14.1.64.0/24 #PH #PH-00 #Manila
 14.1.65.0/24 #PH #PH-00 #Manila
