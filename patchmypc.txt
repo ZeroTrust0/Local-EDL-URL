@@ -754,3 +754,4 @@ zoom.us
 mirror.zultys.bizstatic.zorustech.com
 d32a6ru7mhaq0c.cloudfront.net
 d1hw6v9r20tp4p.cloudfront.net
+ftp.lysator.liu.se
