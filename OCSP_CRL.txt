@@ -3,6 +3,9 @@ crl.verisign.com
 crl3.digicert.com
 crl4.digicert.com
 crl.globalsign.com
+crl.e2m03.amazontrust.com
+crl.rootca3.amazontrust.com
+crl.rootg2.amazontrust.com
 
 cacerts.digicert.com
 
@@ -13,6 +16,9 @@ ocsp.comodoca.com
 ocsp.entrust.net
 ocsp.usertrust.com
 ocsp.globalsign.com
+ocsp.e2m03.amazontrust.com
+ocsp.rootca3.amazontrust.com
+ocsp.rootg2.amazontrust.com
 
 edgedl.me.gvt1.com
 
@@ -21,3 +27,4 @@ commercial.ocsp.identrust.com
 validation.identrust.com
 
 x1.c.lencr.org
+s1.symcb.com
