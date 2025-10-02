@@ -20,3 +20,4 @@ commercial.ocsp.identrust.com
 
 validation.identrust.com
 
+x1.c.lencr.org
