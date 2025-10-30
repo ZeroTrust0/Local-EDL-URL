@@ -7,6 +7,8 @@ crl.e2m03.amazontrust.com
 crl.rootca3.amazontrust.com
 crl.rootg2.amazontrust.com
 crl.rootca1.amazontrust.com
+crl.sectigo.com
+crl.buypass.no
 
 cacerts.digicert.com
 
@@ -21,6 +23,7 @@ ocsp.e2m03.amazontrust.com
 ocsp.rootca3.amazontrust.com
 ocsp.rootg2.amazontrust.com
 ocsp.rootca1.amazontrust.com
+ocsp.buypass.com
 
 edgedl.me.gvt1.com
 
