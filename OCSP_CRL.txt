@@ -9,6 +9,23 @@ crl.rootg2.amazontrust.com
 crl.rootca1.amazontrust.com
 crl.sectigo.com
 crl.buypass.no
+crl.paloaltonetworks.com
+crl.apple.com
+crl.starfieldtech.com
+crl.quovadisglobal.com
+crl.pki.goog
+crl.r2m04.amazontrust.com
+crl.r2m03.amazontrust.com
+crl.buypassca.com
+
+#CRL
+c.pki.goog
+certificates.intel.com
+www.intel.com/repository/CRL/Intel%20External%20Basic%20Policy%20CA(1).crl
+www.intel.com/repository/CRL/Intel%20External%20Basic%20Issuing%20CA%203B(2).crl
+sv.symcb.com
+rnps-crl.dl.playstation.net
+csc3-2010-crl.verisign.com
 
 cacerts.digicert.com
 
@@ -24,6 +41,14 @@ ocsp.rootca3.amazontrust.com
 ocsp.rootg2.amazontrust.com
 ocsp.rootca1.amazontrust.com
 ocsp.buypass.com
+ocsp.apple.com
+ocsp2.apple.com
+ocsps.ssl.com
+ocsp.quovadisoffshore.com
+ocsp.digicert.com
+ocsp.paloaltonetworks.com
+
+oneocsp.microsoft.com
 
 edgedl.me.gvt1.com
 
