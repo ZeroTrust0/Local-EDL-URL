@@ -1,4 +1,4 @@
-#20191022 Get TV, Apple TV
-#cloud-live.telia-cdn.net
+# Man finner nye domener i threat loggen med følgende kommando: category eq newly-registered-domain
+# For å se om et domene det er gjort unntak for fortsatt er kategorisert som nytt: url_category_list contains newly-registered-domain
 selfservice.mediaconnect.no
 id.trumf.no                  #Lagt til 13/11-2025
