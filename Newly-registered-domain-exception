@@ -1,7 +1,8 @@
 # Man finner nye domener i threat loggen med følgende kommando: category eq newly-registered-domain
 # For å se om et domene det er gjort unntak for fortsatt er kategorisert som nytt: url_category_list contains newly-registered-domain
 selfservice.mediaconnect.no
-api.mediaconnect.no          #Lagt til 13/11-2025
-id.trumf.no                  #Lagt til 13/11-2025
-prod-api.services.carweb.no  #Lagt til 13/11-2025
+api.mediaconnect.no              #Lagt til 13/11-2025
+id.trumf.no                      #Lagt til 13/11-2025
+prod-api.services.carweb.no      #Lagt til 13/11-2025
 objetos-xlk.estaticos-marca.com  #Lagt til 13/11-2025
+www.gamer.no                     #Lagt til 13/11-2025
