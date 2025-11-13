@@ -1,2 +1,3 @@
+# Man finner nye domener i threat loggen med følgende kommando: category-of-threatid eq dns-new-domain
 selfservice.mediaconnect.no
 id.trumf.no                  #Lagt til 13/11-2025
