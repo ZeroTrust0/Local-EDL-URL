@@ -47,6 +47,7 @@ ocsps.ssl.com
 ocsp.quovadisoffshore.com
 ocsp.digicert.com
 ocsp.paloaltonetworks.com
+ocsps.ssl.com
 
 oneocsp.microsoft.com
 
