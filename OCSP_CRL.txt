@@ -17,6 +17,7 @@ crl.pki.goog
 crl.r2m04.amazontrust.com
 crl.r2m03.amazontrust.com
 crl.buypassca.com
+evcs-crl.ws.symantec.com
 
 #CRL
 c.pki.goog
@@ -48,6 +49,7 @@ ocsp.quovadisoffshore.com
 ocsp.digicert.com
 ocsp.paloaltonetworks.com
 ocsps.ssl.com
+evcs-ocsp.ws.symantec.com
 
 oneocsp.microsoft.com
 
