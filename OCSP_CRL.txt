@@ -28,6 +28,9 @@ sv.symcb.com
 rnps-crl.dl.playstation.net
 csc3-2010-crl.verisign.com
 
+pki.polycom.com/pki/Polycom%20Equipment%20Issuing%20CA%202.crt
+pki.polycom.com
+
 cacerts.digicert.com
 
 ocsp.globalsign.com
