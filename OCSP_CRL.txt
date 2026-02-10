@@ -18,6 +18,7 @@ crl.r2m04.amazontrust.com
 crl.r2m03.amazontrust.com
 crl.buypassca.com
 evcs-crl.ws.symantec.com
+crl2.microsoft.com
 
 #CRL
 c.pki.goog
