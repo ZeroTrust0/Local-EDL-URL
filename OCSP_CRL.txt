@@ -19,6 +19,7 @@ crl.r2m03.amazontrust.com
 crl.buypassca.com
 evcs-crl.ws.symantec.com
 crl2.microsoft.com
+crl.godaddy.com
 
 #CRL
 c.pki.goog
@@ -31,6 +32,7 @@ csc3-2010-crl.verisign.com
 
 pki.polycom.com/pki/Polycom%20Equipment%20Issuing%20CA%202.crt
 pki.polycom.com
+certificates.godaddy.com
 
 cacerts.digicert.com
 
