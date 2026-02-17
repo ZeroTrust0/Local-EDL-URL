@@ -1,3 +1,4 @@
+#CRL
 crl.usertrust.com
 crl.verisign.com
 crl3.digicert.com
@@ -20,22 +21,21 @@ crl.buypassca.com
 evcs-crl.ws.symantec.com
 crl2.microsoft.com
 crl.godaddy.com
-
-#CRL
-c.pki.goog
-certificates.intel.com
+cs-g2-crl.thawte.com
 www.intel.com/repository/CRL/Intel%20External%20Basic%20Policy%20CA(1).crl
 www.intel.com/repository/CRL/Intel%20External%20Basic%20Issuing%20CA%203B(2).crl
-sv.symcb.com
 rnps-crl.dl.playstation.net
 csc3-2010-crl.verisign.com
+crl.microsoft.com
+crl4.digicert.com
 
+#CRT
+crt.sectigo.com
 pki.polycom.com/pki/Polycom%20Equipment%20Issuing%20CA%202.crt
-pki.polycom.com
-certificates.godaddy.com
+crt.usertrust.com
 
-cacerts.digicert.com
 
+#OCSP
 ocsp.globalsign.com
 ocsp.sectigo.com
 ocsp2.globalsign.com
@@ -56,14 +56,19 @@ ocsp.digicert.com
 ocsp.paloaltonetworks.com
 ocsps.ssl.com
 evcs-ocsp.ws.symantec.com
-
 oneocsp.microsoft.com
+ocsp.sectigo.com
 
+#Ymse
+c.pki.goog
+certificates.intel.com
+sv.symcb.com
+cacerts.digicert.com
+pki.polycom.com
+certificates.godaddy.com
 edgedl.me.gvt1.com
-
 commercial.ocsp.identrust.com
-
 validation.identrust.com
-
 x1.c.lencr.org
 s1.symcb.com
+c.pki.goog
