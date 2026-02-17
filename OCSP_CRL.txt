@@ -34,7 +34,6 @@ crt.sectigo.com
 pki.polycom.com/pki/Polycom%20Equipment%20Issuing%20CA%202.crt
 crt.usertrust.com
 
-
 #OCSP
 ocsp.globalsign.com
 ocsp.sectigo.com
