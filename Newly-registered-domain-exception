@@ -1,3 +1,7 @@
+#Permanente unntak som har blitt sperret på generisk vis
+altinn.no                        #16/6-2026
+info.altinn.no                   #16/6-2026
+
 # Man finner nye domener i threat loggen med følgende kommando: category eq newly-registered-domain
 # For å se om et domene det er gjort unntak for fortsatt er kategorisert som nytt: url_category_list contains newly-registered-domain
 #selfservice.mediaconnect.no
