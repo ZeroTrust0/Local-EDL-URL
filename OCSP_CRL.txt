@@ -28,6 +28,7 @@ rnps-crl.dl.playstation.net
 csc3-2010-crl.verisign.com
 crl.microsoft.com
 crl4.digicert.com
+crl.r2m01.amazontrust.com
 
 #CRT
 crt.sectigo.com
@@ -57,6 +58,7 @@ ocsps.ssl.com
 evcs-ocsp.ws.symantec.com
 oneocsp.microsoft.com
 ocsp.sectigo.com
+ocsp.r2m01.amazontrust.com
 
 #Ymse
 c.pki.goog
