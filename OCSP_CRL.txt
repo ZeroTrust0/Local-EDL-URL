@@ -29,6 +29,12 @@ csc3-2010-crl.verisign.com
 crl.microsoft.com
 crl4.digicert.com
 crl.r2m01.amazontrust.com
+s.symcb.com/universal-root.crl
+crl.thawte.com/ThawteTimestampingCA.crl
+s2.symcb.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBS56bKHAoUD+Oyl+0LhPg9JxyQm4gQUf9Nlp8Ld7LvwMAnzQzn6Aq8zMTMCED141/l2SWCyYX308B7Khio=
+s.symcd.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBQ/YHKj6JjF6UBieQioTYpFsuEriQQUtnf6aUhHn1MS1cLqBzJ2B9GXBxkCEHsFsdRJaFFE98mJ0pwZnRI=
+sv.symcd.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBQe6LNDJdqx+JOp7hVgTeaGFJ/CQgQUljtT8Hkzl699g+8uK8zKt4YecmYCEFqiimDu5x5Ng29YVXBwr/E=
+sv.symcd.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBQe6LNDJdqx+JOp7hVgTeaGFJ/CQgQUljtT8Hkzl699g+8uK8zKt4YecmYCEEWKIbqrScoJUtzaW2zN4io=
 
 #CRT
 crt.sectigo.com
@@ -59,6 +65,7 @@ evcs-ocsp.ws.symantec.com
 oneocsp.microsoft.com
 ocsp.sectigo.com
 ocsp.r2m01.amazontrust.com
+ocsp.thawte.com
 
 #Ymse
 c.pki.goog
