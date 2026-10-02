@@ -66,6 +66,7 @@ oneocsp.microsoft.com
 ocsp.sectigo.com
 ocsp.r2m01.amazontrust.com
 ocsp.thawte.com
+ocsp.snowflakecomputing.com
 
 #Ymse
 c.pki.goog
